@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/products-on-click", {data:[{}],fetch:{},mutations:void 0});
