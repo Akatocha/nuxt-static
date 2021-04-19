@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/text-reverse", {data:[{}],fetch:{},mutations:void 0});
